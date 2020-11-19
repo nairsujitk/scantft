@@ -1,0 +1,13 @@
+template_type: TF
+
+terraform_version: 0.11
+
+# terraform_011_parameters:
+# 	variable_files:
+# 		- scan/rich-value-types/network/variables.tf
+# 	 variable_values:
+# 		- name: check 
+# 		  value: public-read-write
+
+
+
